@@ -1,0 +1,14 @@
+﻿  源.c
+D:\ProgramData\c_project\数据类型\源.c(27,9): warning C4477: “printf”: 格式字符串“%lu”需要类型“unsigned long”的参数，但可变参数 1 拥有了类型“size_t”
+D:\ProgramData\c_project\数据类型\源.c(27,9): message : 请考虑在格式字符串中使用“%zu”
+D:\ProgramData\c_project\数据类型\源.c(30,9): warning C4477: “printf”: 格式字符串“%lu”需要类型“unsigned long”的参数，但可变参数 1 拥有了类型“size_t”
+D:\ProgramData\c_project\数据类型\源.c(30,9): message : 请考虑在格式字符串中使用“%zu”
+D:\ProgramData\c_project\数据类型\源.c(62,8): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\ProgramData\c_project\数据类型\源.c(64,9): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\ProgramData\c_project\数据类型\源.c(65,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 3 拥有了类型“double”
+D:\ProgramData\c_project\数据类型\源.c(68,9): warning C4047: “函数”:“const char *const ”与“int”的间接级别不同
+D:\ProgramData\c_project\数据类型\源.c(68,9): warning C4024: “printf”: 形参和实参 1 的类型不同
+D:\ProgramData\c_project\数据类型\源.c(53,8): warning C4305: “初始化”: 从“double”到“float”截断
+D:\ProgramData\c_project\数据类型\源.c(60,11): warning C4305: “初始化”: 从“double”到“float”截断
+D:\ProgramData\c_project\数据类型\源.c(60,20): warning C4305: “初始化”: 从“double”到“float”截断
+  数据类型.vcxproj -> D:\ProgramData\c_project\数据类型\x64\Debug\数据类型.exe

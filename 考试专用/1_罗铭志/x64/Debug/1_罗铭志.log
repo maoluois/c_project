@@ -1,0 +1,4 @@
+﻿  源.c
+D:\ProgramData\c_project\考试专用\1_罗铭志\源.c(13,20): warning C4013: “pow”未定义；假设外部返回 int
+D:\ProgramData\c_project\考试专用\1_罗铭志\源.c(29,31): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+  1_罗铭志.vcxproj -> D:\ProgramData\c_project\考试专用\1_罗铭志\x64\Debug\1_罗铭志.exe

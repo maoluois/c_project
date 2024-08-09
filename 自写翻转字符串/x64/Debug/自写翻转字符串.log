@@ -1,0 +1,6 @@
+﻿  源.c
+D:\ProgramData\c_project\自写翻转字符串\源.c(15,10): warning C4477: “scanf_s”: 格式字符串“%s”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“size_t”
+D:\ProgramData\c_project\自写翻转字符串\源.c(15,10): message : 此参数用作缓冲区大小
+D:\ProgramData\c_project\自写翻转字符串\源.c(18,8): warning C4047: “函数”:“char”与“char [30]”的间接级别不同
+D:\ProgramData\c_project\自写翻转字符串\源.c(18,8): warning C4024: “restr”: 形参和实参 1 的类型不同
+  自写翻转字符串.vcxproj -> D:\ProgramData\c_project\自写翻转字符串\x64\Debug\自写翻转字符串.exe
